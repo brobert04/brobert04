@@ -1,6 +1,5 @@
 # 🥸 Bercaru Robert
 
-**`Student at CSIE - Bucharest`**
 
 I am a web developer passionate about technology and innovation. I started my so-called career out of stupidity and I still don't regret it. I try every day to perfect myself and become better at what I do.
 ---
