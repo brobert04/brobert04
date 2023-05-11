@@ -17,7 +17,8 @@ I am a web developer passionate about technology and innovation. I started my so
 <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-<br>
+
+
 ### 📊 Stats
 
 ![Roberts's GitHub stats](https://github-readme-stats.vercel.app/api?username=brobert04&show_icons=true&theme=radical)
