@@ -26,6 +26,4 @@ I am a web developer passionate about technology and innovation. I started my so
 [![GitHub Streak](https://streak-stats.demolab.com?user=brobert04&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 #
 #
-<details>
- <summary><h3>👨‍💻 Robert's Coding Journey</h3></summary>
-   I started my coding journey as a naive philology student. I first encountered programming in the 9th grade when our Information and Computer Technology teacher introduced us to HTML. It was love at first sight and since then I decided that this is what I want to do with my life, to work in this field and to become even better every day. After getting comfortable with HTML and CSS, I decided to learn a real programming language, so I switched to Python. Thus, I developed my passion for web development even more, once I learned Django. I created different projects, participated in different competitions where I won different prizes and experienced different programming languages. At the moment I'm trying to familiarize myself with Typescript and Angular to be able to become a good frontend developer. So keep an eye on my profile page and don't hesitate to contact me <a href="https://bercarurobert.me/">here</a> if you need me.
+
